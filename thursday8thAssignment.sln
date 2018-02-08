@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "thursday8thAssignment", "thursday8thAssignment\thursday8thAssignment.phpproj", "{1474E109-E100-4FF0-BC1B-E160FAB750D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1474E109-E100-4FF0-BC1B-E160FAB750D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1474E109-E100-4FF0-BC1B-E160FAB750D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8BF9085-4082-4420-A77D-A9F17EBB606D}
+	EndGlobalSection
+EndGlobal
